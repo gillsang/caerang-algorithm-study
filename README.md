@@ -46,7 +46,7 @@
 
 ## PR 양식
 
-### PR 제목
+### PR 제목(좋은 예시)
 ![image](https://user-images.githubusercontent.com/38518648/169649797-0ded3af3-ccb3-4c84-8d49-141d009f9ae7.png)
 
 제목: [알고리즘분류]알고리즘제목 
