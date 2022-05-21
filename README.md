@@ -3,9 +3,10 @@
 2022년 04월 25일에 개설된 한림대학교 학술동아리 C.愛.랑 알고리즘 스터디 그룹입니다.
 
 ## 알고리즘 유의사항
-- 코드리뷰의 가독성을 위해, 변수명과 로직을 명확하게 하도록 노력합시다
+- 코드리뷰의 가독성을 위해 코드를 깔끔하게 짜려고 노력합시다.!
   - 현업에서 내가 짠 코드를 나 혹은 다른 사람이 이해할 수 있게 짜는, 배려가 중요합니다
   - 주석을 달지 않아도 이해할 수 있을 정도의 코드를 짜봅시다.
+- gitgub에 잔디 채우기 좋은 스터디
   
   
 ## 알고리즘 준비의 중요성
@@ -29,13 +30,13 @@
 - PR 이름은 알고리즘 문제 제목 or 번호 and 난이도 상세하게 적기.
 - label 에 사용한 언어를 추가!
 
-## 알고리즘 연습하기
-
-
+## 🥇 알고리즘 사이트
+---
 - [codility](https://app.codility.com/)
 - [프로그래머스](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=brand_prgms_pc&gclid=CjwKCAjwgr6TBhAGEiwA3aVuIQXmT8YH8jdl1th-cq3_JZgRecC6XPHmVBsLuXyaue86m3dbPMCs9BoC5HIQAvD_BwE)
 - [백준](https://www.acmicpc.net/)
 - [삼성 SW Academy](https://swexpertacademy.com/main/main.do)
+---
 
 사이트에 상관 없이 파일/폴더 형식만 잘 정리해서 올려주세요!
   
@@ -62,9 +63,7 @@ label: 문제푼 곳, 언어, 난이도(옵션)
 - label: 문제 출처(Programmers, BOJ, leetcode, codility... ), 푼 언어(Javascript, python, java, c++, c, ...) , 난이도(HARD, EASY, NOMAL)
 
 #### Merge 기준
-a. assignee 모두 리뷰를 남겼을 때
-b. 다음 문제를 풀기 직전
-기준 a 혹은 b 둘중 하나만 만족하면됩니다!
+- 문제 번호 및 머지되는 위치가 정확한지 확인 후 머지 합니다.
 
 ## 코드리뷰 하는 방법
 
