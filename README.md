@@ -1,6 +1,8 @@
 # caerang_algorithm_study 😄
 
 2022년 04월 25일에 개설된 한림대학교 학술동아리 C.愛.랑 알고리즘 스터디 그룹입니다.
+- C.愛.랑 회원이 아니지만 저도 하고싶어요!
+- [18 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [ISSUE](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
 
 ## 알고리즘 유의사항
 - 코드리뷰의 가독성을 위해 코드를 깔끔하게 짜려고 노력합시다!
@@ -22,7 +24,7 @@
 [1 이정근](https://github.com/jeonggunlee)
 
 ## 가입 문의 
-[18 나영훈](https://github.com/younghoonNa) 문의 
+
 
 ## PR(pull request) 규칙
 ![image](https://user-images.githubusercontent.com/38518648/165247130-ac6a79e6-bbaf-4578-b6b7-df1355cb1103.png)
