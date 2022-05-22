@@ -19,7 +19,7 @@
 >
 >이러한 관점에서 알고리즘 스터디를 진행하는 우리 씨애랑 알고리즘 스터디 화이팅!!!~
 
-[1 이정근](https://github.com/jeonggunlee)
+[1기 이정근](https://github.com/jeonggunlee)
 
 ## 가입 문의 
 
