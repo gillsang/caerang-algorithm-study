@@ -22,6 +22,7 @@
 [1기 이정근](https://github.com/jeonggunlee)
 
 ## 가입 문의 
+- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
 
 
 ## PR(pull request) 규칙
@@ -38,11 +39,11 @@
 - [삼성 SW Academy](https://swexpertacademy.com/main/main.do)
 ---
 
-사이트에 상관 없이 파일/폴더 형식만 잘 정리해서 올려주세요!
+사이트에 상관 없이 파일/폴더/PR 형식만 잘 정리해서 올려주세요!
   
 
 ## 파일 및 폴더 구조
-  - `플랫폼/카테고리(생략가능)/주제.문제.숫자/깃허브아디` 형식으로 업로드해주세요.
+  - `플랫폼/카테고리(생략가능)or난이도(생략가능)/주제.문제.숫자/깃허브아디` 형식으로 업로드해주세요.
 
 ## PR 양식
 
