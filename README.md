@@ -1,4 +1,4 @@
-# caerang_algorithm_study 😄
+# 😄caerang_algorithm_study😄
 
 2022년 04월 25일에 개설된 한림대학교 학술동아리 C.愛.랑 알고리즘 스터디 그룹입니다.
 - C.愛.랑 회원이 아니지만 저도 하고싶어요! 혹은 저도 잔디를 심고 싶어요 
